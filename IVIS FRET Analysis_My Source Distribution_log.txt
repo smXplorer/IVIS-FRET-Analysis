@@ -1,0 +1,139 @@
+4/19/2023 7:16:24 PM
+[General]
+Project: D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET Analysis.lvproj
+Target: My Computer
+Build Specification: My Source Distribution
+OS: Windows x64 6.2
+
+[Open Top Level VIs]
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Main.vi	4/19/2023 7:06:00 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Analyze Data.vi	4/14/2023 3:54:06 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Build Overlay.vi	4/11/2023 7:04:41 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Compute Intensities Arrays.vi	4/14/2023 4:51:31 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Compute Ratios.vi	4/14/2023 3:53:19 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Get Frame Time Stamp.vi	4/19/2023 8:55:18 AM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Get Mask ROIs.vi	4/10/2023 2:43:08 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Load Image as SGL.vi	4/11/2023 4:06:02 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Load Image Data.vi	4/11/2023 4:11:46 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Sort Image Data.vi	4/11/2023 4:04:25 PM
+
+
+[Source Files]
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Error\Clear Error.vi	3/5/2022 5:28:12 PM	4
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\GUI\Busy Icon & Message Storage.vi	2/25/2023 3:10:34 PM	2
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Buttons\Hide Animated Busy Icon with Message.vi	2/25/2023 3:17:49 PM	29
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Arrays\my Remove Duplicates from 1D Array.vim	4/3/2023 1:57:49 PM	31
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Arrays\Remove Element from 1D Array.vim	4/3/2023 1:57:54 PM	134
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Frame Image Intensities.ctl	4/14/2023 3:49:53 PM	8
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Frame Image Parameters.ctl	4/11/2023 2:57:27 PM	8
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Image\Image Point.ctl	11/25/2022 11:15:47 PM	2
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Frame Image Components Data.ctl	4/11/2023 1:00:37 PM	7
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Frame Image Outputs.ctl	4/10/2023 3:17:54 PM	6
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Compute Ratios.vi	4/14/2023 3:53:19 PM	10
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Image\Image to SGL Array.vi	3/5/2022 5:35:26 PM	2
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Time\High Resolution Timing.vi	8/17/2022 4:34:15 AM	13
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Image\Image (Mask) SGL Data.vi	4/11/2023 1:07:55 PM	10
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Series Image Parameter & Coordinates.ctl	4/11/2023 3:04:13 PM	10
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Frame Image Components.ctl	4/10/2023 3:44:10 PM	2
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Analyze Data.vi	4/14/2023 3:54:06 PM	10
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Sort Image Data.vi	4/11/2023 4:04:25 PM	5
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Get Frame Time Stamp.vi	4/19/2023 8:55:18 AM	4
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Load Image as SGL.vi	4/11/2023 4:06:02 PM	3
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Load Image Data.vi	4/11/2023 4:11:46 PM	11
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Buttons\Show Animated Busy Icon with Message.vi	2/25/2023 3:12:40 PM	27
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Image\Get Image Number of Pixel Values.vi	7/31/2022 6:46:12 PM	3
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Image\Mask Image to ROIs.vi	7/31/2022 10:00:16 PM	14
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Get Mask ROIs.vi	4/10/2023 2:43:08 PM	5
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Comparison\Is a Valid Number (DBL).vi	3/5/2022 5:28:36 PM	4
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Build Overlay.vi	4/11/2023 7:04:41 PM	6
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Palette\Interpolate N Between Two Colors.vi	3/5/2022 5:35:28 PM	1
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\LV Tools\For Loop Iteration Type.ctl	3/5/2022 5:34:43 PM	2
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\LV Tools\For Loop Iteration.vi	3/5/2022 5:34:42 PM	4
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Palette\Create 256 Values Palette.vi	4/17/2023 10:09:59 AM	24
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Image\Image Display Palette Type.ctl	3/5/2022 5:28:14 PM	1
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Image\Image Display Palette Information.ctl	3/5/2022 5:28:12 PM	3
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Palette\Set Color Ramp Palette v3.vi	4/11/2023 6:43:26 PM	9
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Error\Anything to no Error Cluster.vi	6/6/2022 6:55:19 PM	5
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Pictures\Copy Image Data to Clipboard.vi	3/5/2022 5:35:33 PM	8
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Palette\Export Color Ramp to Clipboard.vi	3/5/2022 5:35:23 PM	5
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Palette\Color Brewer Palette.ctl	3/5/2022 5:35:26 PM	1
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Palette\Get Selected Palette's Color Array.vi	3/5/2022 5:35:22 PM	2
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Palette\Brewer Palette Array.vi	3/5/2022 5:35:26 PM	5
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Palette\Select Color Brewer Palette v2.vi	3/5/2022 5:35:26 PM	18
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\LV Tools\Get Control References.vi	3/2/2022 11:42:47 AM	10
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\LV Tools\Get All Controls Tip Strips.vi	3/5/2022 5:35:35 PM	1
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Palette\Brewer Palette Dialog v2.vi	4/28/2022 5:28:30 PM	52
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Palette\Create Interpolated Color Palette.vi	3/5/2022 5:35:30 PM	1
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Palette\Interpolated Color Scale Definition.ctl	3/5/2022 5:35:17 PM	1
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Palette\Get User Palette Choice.vi	3/5/2022 5:35:30 PM	19
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Compute Intensities Arrays.vi	4/14/2023 4:51:31 PM	3
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Pictures\Save File Format.ctl	4/19/2023 9:12:14 AM	2
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Image\Selected Area in Object.ctl	3/5/2022 5:35:28 PM	2
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Image\Save Selected Area in Image.vi	3/5/2022 5:35:18 PM	3
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Image\Image Control Refnum.ctl	3/2/2022 11:42:47 AM	6
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Image\Save Displayed Image.vi	3/5/2022 5:35:32 PM	7
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\Image\Image File Dialog (Optional).vi	4/19/2023 9:13:57 AM	3
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Time Unit.ctl	4/11/2023 12:24:56 PM	2
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET Parameter.ctl	4/10/2023 3:57:39 PM	1
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\CalcX\IVIS FRET\IVIS FRET_Main.vi	4/19/2023 7:06:00 PM	39
+
+[Output Files]
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Main.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET Parameter.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Analyze Data.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Build Overlay.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Compute Intensities Arrays.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Compute Ratios.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Frame Image Components Data.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Frame Image Components.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Frame Image Intensities.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Frame Image Outputs.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Frame Image Parameters.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Get Frame Time Stamp.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Get Mask ROIs.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Load Image as SGL.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Load Image Data.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Series Image Parameter & Coordinates.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Sort Image Data.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\CalcX\IVIS FRET\IVIS FRET_Time Unit.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Pictures\Save File Format.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Image\Image Display Palette Information.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Image\Image Display Palette Type.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Image\Image File Dialog (Optional).vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Image\Save Displayed Image.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Image\Image Control Refnum.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Image\Selected Area in Object.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Image\Save Selected Area in Image.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Palette\Export Color Ramp to Clipboard.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Pictures\Copy Image Data to Clipboard.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Palette\Get User Palette Choice.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Palette\Interpolated Color Scale Definition.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Palette\Create Interpolated Color Palette.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Palette\Brewer Palette Array.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Palette\Color Brewer Palette.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Palette\Brewer Palette Dialog v2.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\LV Tools\Get All Controls Tip Strips.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\LV Tools\Get Control References.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Palette\Select Color Brewer Palette v2.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Palette\Get Selected Palette's Color Array.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Error\Anything to no Error Cluster.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Palette\Set Color Ramp Palette v3.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Palette\Create 256 Values Palette.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\LV Tools\For Loop Iteration.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\LV Tools\For Loop Iteration Type.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Palette\Interpolate N Between Two Colors.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Time\High Resolution Timing.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Buttons\Show Animated Busy Icon with Message.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\GUI\Busy Icon & Message Storage.vi	4/19/2023 7:16:29 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Error\Clear Error.vi	4/19/2023 7:16:29 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Buttons\Hide Animated Busy Icon with Message.vi	4/19/2023 7:16:29 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Image\Image Point.ctl	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Image\Image (Mask) SGL Data.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Image\Image to SGL Array.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Comparison\Is a Valid Number (DBL).vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Arrays\Remove Element from 1D Array.vim	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Arrays\my Remove Duplicates from 1D Array.vim	4/19/2023 7:16:29 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Image\Mask Image to ROIs.vi	4/19/2023 7:16:30 PM
+D:\UCLA Thinkpad Google Drive\LabVIEW 2021 SP1\builds\IVIS FRET Analysis\IVIS FRET Analysis Distribution\Image\Get Image Number of Pixel Values.vi	4/19/2023 7:16:30 PM
+
+4/19/2023 7:16:30 PM
